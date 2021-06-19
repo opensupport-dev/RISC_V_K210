@@ -1,5 +1,9 @@
 # RISC_V_K210
 
+* ## 참고 링크 
+  * 교육 블로그
+    * https://m.blog.naver.com/chcbaram/222111777645
+    
 * ## 개발환경 
   * Eclipse IDE for C/C++ Developers 2020-03
     * https://www.eclipse.org/downloads/packages/
